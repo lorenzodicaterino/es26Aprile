@@ -1,0 +1,56 @@
+# Traccia
+
+Creare un sistema di ordinazione di cibo online che permetta agli utenti di effettuare ordini da ristoranti locali, con due livelli di funzionalità a seconda dello status dell'utente:
+
+### 1. Visitatore:
+
+- Visualizzare un elenco di ristoranti disponibili con dettagli specifici, inclusi:
+  - Nome del ristorante
+  - Tipo di cucina (es. italiano, cinese, messicano)
+  - Descrizione del ristorante
+  - Orario di apertura e chiusura
+- Consultare il menu di ciascun ristorante con i relativi piatti disponibili e i prezzi.
+
+### 2. Utente Registrato:
+
+- Effettuare il login o registrarsi per accedere a funzionalità avanzate.
+- Dopo il login, l'utente può selezionare piatti dal menu e aggiungerli al carrello per procedere con l'ordine.
+- Visualizzare il carrello degli acquisti con un riepilogo degli articoli selezionati, i prezzi e la possibilità di modificare o rimuovere gli articoli.
+- Confermare l'ordine con indicazioni sulla consegna (calcolare uno standard di un'ora di tempo tra ordine e consegna).
+- Visualizzare lo storico degli ordini effettuati e lo stato degli ordini in corso.
+
+### 3. Pagina di Registrazione:
+
+- Permettere agli utenti di creare un account con informazioni di base come nome, indirizzo e-mail e password per accedere alle funzionalità avanzate di ordinazione.
+
+<br>
+
+```sql
+CREATE TABLE ristorante (
+    ristoranteID INT PRIMARY KEY IDENTITY(1,1),
+    codice_ristorante VARCHAR(250) DEFAULT NEWID(),
+    nome_ristorante VARCHAR(250) NOT NULL,
+    tipologia VARCHAR(250) NOT NULL,
+    descrizione TEXT NOT NULL,
+    orario_apertura VARCHAR(5) NOT NULL,
+    orario_chiusura VARCHAR(5) NOT NULL
+);
+
+CREATE TABLE piatto(
+  piattoID INT PRIMARY KEY IDENTITY(1,1),
+  codice_piatto VARCHAR(250) DEFAULT NEWID(),
+  nome_piatto VARCHAR(250) NOT NULL,
+  descrizione_piatto VARCHAR(250) NOT NULL,
+  prezzo_piatto DECIMAL(10,2) NOT NULL,
+  ristoranteRIF INT NOT NULL,
+  FOREIGN KEY (ristoranteRIF) REFERENCES ristorante(ristoranteID) ON DELETE CASCADE
+);
+
+CREATE TABLE utente(
+  utenteID INT PRIMARY KEY IDENTITY(1,1),
+  codice_utente VARCHAR(250) DEFAULT NEWID(),
+  nominativo VARCHAR(250) NOT NULL,
+  email VARCHAR(250) NOT NULL UNIQUE,
+  passsword VARCHAR(250) NOT NULL --3 s perchè password è parola chiave
+);
+```

@@ -1,0 +1,144 @@
+[
+  {
+    "ContainingType": "Esercitazione26Aprile.Controllers.PiattiController",
+    "Method": "RecuperaTutti",
+    "RelativePath": "Piatti",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Esercitazione26Aprile.Controllers.PiattiController",
+    "Method": "RecuperaPerCodice",
+    "RelativePath": "Piatti/{codice}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Esercitazione26Aprile.Controllers.RistoranteController",
+    "Method": "RecuperaTutti",
+    "RelativePath": "Ristorante",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Esercitazione26Aprile.Controllers.RistoranteController",
+    "Method": "RecuperaPerCodice",
+    "RelativePath": "Ristorante/{codice}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Esercitazione26Aprile.Controllers.RistoranteController",
+    "Method": "RecuperaPiattiPerRistorante",
+    "RelativePath": "Ristorante/piatti/{codice}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Esercitazione26Aprile.Controllers.UtenteController",
+    "Method": "RecuperaTutti",
+    "RelativePath": "Utente",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Esercitazione26Aprile.Controllers.UtenteController",
+    "Method": "Inserisci",
+    "RelativePath": "Utente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Esercitazione26Aprile.DTO.UtenteDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Esercitazione26Aprile.Controllers.UtenteController",
+    "Method": "Modifica",
+    "RelativePath": "Utente",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Esercitazione26Aprile.DTO.UtenteDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Esercitazione26Aprile.Controllers.UtenteController",
+    "Method": "RecuperaPerCodice",
+    "RelativePath": "Utente/{codice}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Esercitazione26Aprile.Controllers.UtenteController",
+    "Method": "Elimina",
+    "RelativePath": "Utente/{codice}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

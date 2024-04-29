@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\esercitazioni\\es26Aprile\\Esercitazione26Aprile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{250A4653-5B5C-4348-92C8-974D98A76EAD}|Esercitazione26Aprile\\Esercitazione26Aprile.csproj|c:\\users\\utente\\desktop\\esercitazioni\\es26aprile\\esercitazione26aprile\\esercitazione26aprile\\controllers\\piatticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250A4653-5B5C-4348-92C8-974D98A76EAD}|Esercitazione26Aprile\\Esercitazione26Aprile.csproj|solutionrelative:esercitazione26aprile\\controllers\\piatticontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250A4653-5B5C-4348-92C8-974D98A76EAD}|Esercitazione26Aprile\\Esercitazione26Aprile.csproj|c:\\users\\utente\\desktop\\esercitazioni\\es26aprile\\esercitazione26aprile\\esercitazione26aprile\\controllers\\ristorantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250A4653-5B5C-4348-92C8-974D98A76EAD}|Esercitazione26Aprile\\Esercitazione26Aprile.csproj|solutionrelative:esercitazione26aprile\\controllers\\ristorantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250A4653-5B5C-4348-92C8-974D98A76EAD}|Esercitazione26Aprile\\Esercitazione26Aprile.csproj|c:\\users\\utente\\desktop\\esercitazioni\\es26aprile\\esercitazione26aprile\\esercitazione26aprile\\controllers\\utentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250A4653-5B5C-4348-92C8-974D98A76EAD}|Esercitazione26Aprile\\Esercitazione26Aprile.csproj|solutionrelative:esercitazione26aprile\\controllers\\utentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250A4653-5B5C-4348-92C8-974D98A76EAD}|Esercitazione26Aprile\\Esercitazione26Aprile.csproj|c:\\users\\utente\\desktop\\esercitazioni\\es26aprile\\esercitazione26aprile\\esercitazione26aprile\\service\\ristoranteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250A4653-5B5C-4348-92C8-974D98A76EAD}|Esercitazione26Aprile\\Esercitazione26Aprile.csproj|solutionrelative:esercitazione26aprile\\service\\ristoranteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250A4653-5B5C-4348-92C8-974D98A76EAD}|Esercitazione26Aprile\\Esercitazione26Aprile.csproj|c:\\users\\utente\\desktop\\esercitazioni\\es26aprile\\esercitazione26aprile\\esercitazione26aprile\\service\\piattoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250A4653-5B5C-4348-92C8-974D98A76EAD}|Esercitazione26Aprile\\Esercitazione26Aprile.csproj|solutionrelative:esercitazione26aprile\\service\\piattoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250A4653-5B5C-4348-92C8-974D98A76EAD}|Esercitazione26Aprile\\Esercitazione26Aprile.csproj|c:\\users\\utente\\desktop\\esercitazioni\\es26aprile\\esercitazione26aprile\\esercitazione26aprile\\service\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250A4653-5B5C-4348-92C8-974D98A76EAD}|Esercitazione26Aprile\\Esercitazione26Aprile.csproj|solutionrelative:esercitazione26aprile\\service\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250A4653-5B5C-4348-92C8-974D98A76EAD}|Esercitazione26Aprile\\Esercitazione26Aprile.csproj|c:\\users\\utente\\desktop\\esercitazioni\\es26aprile\\esercitazione26aprile\\esercitazione26aprile\\service\\utenteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250A4653-5B5C-4348-92C8-974D98A76EAD}|Esercitazione26Aprile\\Esercitazione26Aprile.csproj|solutionrelative:esercitazione26aprile\\service\\utenteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250A4653-5B5C-4348-92C8-974D98A76EAD}|Esercitazione26Aprile\\Esercitazione26Aprile.csproj|c:\\users\\utente\\desktop\\esercitazioni\\es26aprile\\esercitazione26aprile\\esercitazione26aprile\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{250A4653-5B5C-4348-92C8-974D98A76EAD}|Esercitazione26Aprile\\Esercitazione26Aprile.csproj|solutionrelative:esercitazione26aprile\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250A4653-5B5C-4348-92C8-974D98A76EAD}|Esercitazione26Aprile\\Esercitazione26Aprile.csproj|c:\\users\\utente\\desktop\\esercitazioni\\es26aprile\\esercitazione26aprile\\esercitazione26aprile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250A4653-5B5C-4348-92C8-974D98A76EAD}|Esercitazione26Aprile\\Esercitazione26Aprile.csproj|solutionrelative:esercitazione26aprile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PiattiController.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\esercitazioni\\es26Aprile\\Esercitazione26Aprile\\Esercitazione26Aprile\\Controllers\\PiattiController.cs",
+              "RelativeDocumentMoniker": "Esercitazione26Aprile\\Controllers\\PiattiController.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\esercitazioni\\es26Aprile\\Esercitazione26Aprile\\Esercitazione26Aprile\\Controllers\\PiattiController.cs",
+              "RelativeToolTip": "Esercitazione26Aprile\\Controllers\\PiattiController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA8wBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:32:45.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RistoranteController.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\esercitazioni\\es26Aprile\\Esercitazione26Aprile\\Esercitazione26Aprile\\Controllers\\RistoranteController.cs",
+              "RelativeDocumentMoniker": "Esercitazione26Aprile\\Controllers\\RistoranteController.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\esercitazioni\\es26Aprile\\Esercitazione26Aprile\\Esercitazione26Aprile\\Controllers\\RistoranteController.cs",
+              "RelativeToolTip": "Esercitazione26Aprile\\Controllers\\RistoranteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:29:37.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RistoranteService.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\esercitazioni\\es26Aprile\\Esercitazione26Aprile\\Esercitazione26Aprile\\Service\\RistoranteService.cs",
+              "RelativeDocumentMoniker": "Esercitazione26Aprile\\Service\\RistoranteService.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\esercitazioni\\es26Aprile\\Esercitazione26Aprile\\Esercitazione26Aprile\\Service\\RistoranteService.cs",
+              "RelativeToolTip": "Esercitazione26Aprile\\Service\\RistoranteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:26:45.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PiattoService.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\esercitazioni\\es26Aprile\\Esercitazione26Aprile\\Esercitazione26Aprile\\Service\\PiattoService.cs",
+              "RelativeDocumentMoniker": "Esercitazione26Aprile\\Service\\PiattoService.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\esercitazioni\\es26Aprile\\Esercitazione26Aprile\\Esercitazione26Aprile\\Service\\PiattoService.cs",
+              "RelativeToolTip": "Esercitazione26Aprile\\Service\\PiattoService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:26:40.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\esercitazioni\\es26Aprile\\Esercitazione26Aprile\\Esercitazione26Aprile\\Service\\IService.cs",
+              "RelativeDocumentMoniker": "Esercitazione26Aprile\\Service\\IService.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\esercitazioni\\es26Aprile\\Esercitazione26Aprile\\Esercitazione26Aprile\\Service\\IService.cs",
+              "RelativeToolTip": "Esercitazione26Aprile\\Service\\IService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T09:26:23.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\esercitazioni\\es26Aprile\\Esercitazione26Aprile\\Esercitazione26Aprile\\appsettings.json",
+              "RelativeDocumentMoniker": "Esercitazione26Aprile\\appsettings.json",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\esercitazioni\\es26Aprile\\Esercitazione26Aprile\\Esercitazione26Aprile\\appsettings.json",
+              "RelativeToolTip": "Esercitazione26Aprile\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-29T08:45:17.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UtenteService.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\esercitazioni\\es26Aprile\\Esercitazione26Aprile\\Esercitazione26Aprile\\Service\\UtenteService.cs",
+              "RelativeDocumentMoniker": "Esercitazione26Aprile\\Service\\UtenteService.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\esercitazioni\\es26Aprile\\Esercitazione26Aprile\\Esercitazione26Aprile\\Service\\UtenteService.cs",
+              "RelativeToolTip": "Esercitazione26Aprile\\Service\\UtenteService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:42:19.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\esercitazioni\\es26Aprile\\Esercitazione26Aprile\\Esercitazione26Aprile\\Program.cs",
+              "RelativeDocumentMoniker": "Esercitazione26Aprile\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\esercitazioni\\es26Aprile\\Esercitazione26Aprile\\Esercitazione26Aprile\\Program.cs",
+              "RelativeToolTip": "Esercitazione26Aprile\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA0wBQAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:40:31.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UtenteController.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\esercitazioni\\es26Aprile\\Esercitazione26Aprile\\Esercitazione26Aprile\\Controllers\\UtenteController.cs",
+              "RelativeDocumentMoniker": "Esercitazione26Aprile\\Controllers\\UtenteController.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\esercitazioni\\es26Aprile\\Esercitazione26Aprile\\Esercitazione26Aprile\\Controllers\\UtenteController.cs",
+              "RelativeToolTip": "Esercitazione26Aprile\\Controllers\\UtenteController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wBoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:39:22.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
